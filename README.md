@@ -1,4 +1,4 @@
-# 🎭 Staatstheater Augsburg App - Offizielle Version 1.0.0 🎭
+# 🎭 Staatstheater Augsburg App 🎭
 
 Herzlich willkommen im GitHub-Repository der inoffiziellen Android-App für das Staatstheater Augsburg! Diese Anwendung bietet eine bequeme Möglichkeit, aktuelle Termine und Nachrichten des Staatstheaters direkt auf Ihrem Android-Gerät abzurufen.
 
