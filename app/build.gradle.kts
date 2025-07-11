@@ -67,4 +67,8 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.0")
 
     implementation("androidx.compose.material:material-icons-extended")
+
+    implementation("androidx.navigation:navigation-compose:2.7.7") // Prüfe auf die neueste Version
+    implementation("org.jsoup:jsoup:1.17.2") // Für HTML-Parsing
+    implementation("androidx.compose.material:material-icons-extended")
 }
